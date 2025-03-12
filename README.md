@@ -26,7 +26,7 @@ This repository is for build 20 mini frontend projects from scratch with HTML5, 
 ### PROJECTS
 
 Form Validator - [Demo](https://atmm.dev/courses/twenty-projects-javascript/form-validator/) - [Repository](./form-validator/)<br><br> 
-  <img src="" alt="Form Validator"/>
+  <img src="./readme/layout/form-validator.png" alt="Form Validator"/>
 <br><br> 
 </div>
 
